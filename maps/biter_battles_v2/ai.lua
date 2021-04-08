@@ -24,8 +24,8 @@ local unit_type_raffle = {"biter", "mixed", "mixed", "spitter", "spitter"}
 local size_of_unit_type_raffle = #unit_type_raffle
 
 local threat_values = {
-	["small-spitter"] = 1.38,
-	["small-biter"] = 1.38,
+	["small-spitter"] = 1.62,
+	["small-biter"] = 1.62,
 	["medium-spitter"] = 4.5,
 	["medium-biter"] = 4.5,
 	["big-spitter"] = 13,
